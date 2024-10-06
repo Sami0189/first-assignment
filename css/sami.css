@@ -142,6 +142,7 @@ padding: 20px;
 }
 .six-photo{
     margin: 30px;
+  /* display: flex; */
 }
 .photo{
     margin: 10px;
@@ -163,25 +164,38 @@ padding: 40px;
 /* .finish{
    border-radius: 5px;
 }  */
-  .address{
+   /* .address{
     display: flex;
-    /* justify-content: space-between; */
+     justify-content: space-between;
     gap: 500px;
     margin-left: 600px;
     color: aliceblue;
     padding: 20px;
-  }
+  }  */
   .last{
     background-color: black;
     border-radius: 5px;
-  }
+   
+}
+.street{
+    display: flex;
+    color: aliceblue;
+    justify-content: space-around;
+}
   .logo{
     text-align: center;
   }
   .unsubscribe{
     display: flex;
-    gap: 500px;
-    margin-left:650px ;
+     gap: 250px;
+    /* margin-left:650px ; */
     color: aliceblue;
    padding: 20px;
+  justify-content: space-around;
+  }
+  hr{
+    border: 2px solid rgb(20, 20, 20);
+  }
+  .brach{
+  padding-right: 340px;
   }
