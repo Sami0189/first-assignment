@@ -141,13 +141,13 @@ padding: 20px;
     font-size: 20px;
 }
 .six-photo{
-    margin: 30px;
-  /* display: flex; */
-}
-.photo{
-    margin: 10px;
-    width: 600px;
-}
+     margin-left: 400px; 
+   /* display: flex;  */
+} 
+ .photo{
+    /* margin: 5px; */
+    /* width: 600px; */
+} 
 .last-part{
     text-align: center;
    border-radius: 5px;
@@ -196,6 +196,6 @@ padding: 40px;
   hr{
     border: 2px solid rgb(20, 20, 20);
   }
-  .brach{
+  /* .brach{
   padding-right: 340px;
-  }
+  } */
