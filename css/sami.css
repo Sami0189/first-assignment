@@ -47,7 +47,7 @@ margin: 15px;
     background-repeat: no-repeat;
     background-size: 2100px;
     margin-top: 200px;
-    margin: bottom 0;
+  margin-bottom: 0px;
 }
 .Join-together{
     color: aliceblue;
@@ -59,7 +59,7 @@ font-weight: 800;
 }
 .detail{
     text-align: center;
-    margin: 0;
+    margin: 0px;
  background-color: rgb(216, 205, 205);
     padding: 40px;
 }
@@ -137,5 +137,51 @@ padding: 20px;
 .para{
     text-align: left;
     margin-top: 80px;
-    margin-left: 70px;
+    margin-left: 500px;
+    font-size: 20px;
 }
+.six-photo{
+    margin: 30px;
+}
+.photo{
+    margin: 16px;
+    width: 600px;
+}
+.last-part{
+    text-align: center;
+   border-radius: 5px;
+background: rgba(255, 0, 0, 0.05);
+margin: 60px;
+padding: 40px;
+
+}
+.gmail{
+    height: 33px;
+    border: 0px;
+    border-top-left-radius:15px ; border-bottom-left-radius:15px ; 
+}
+/* .finish{
+   border-radius: 5px;
+}  */
+  .address{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 500px;
+    margin-left: 600px;
+    color: aliceblue;
+    padding: 20px;
+  }
+  .last{
+    background-color: black;
+    border-radius: 5px;
+  }
+  .logo{
+    text-align: center;
+  }
+  .unsubscribe{
+    display: flex;
+    gap: 500px;
+    margin-left:650px ;
+    color: aliceblue;
+   padding: 20px;
+  }
